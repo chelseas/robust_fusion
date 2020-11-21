@@ -9,6 +9,7 @@ using Flux
 using NeuralVerification
 
 using Plots
+plotly()
 
 include("infrastructure.jl")
 
